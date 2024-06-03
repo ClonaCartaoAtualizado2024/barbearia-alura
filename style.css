@@ -186,6 +186,18 @@ td, th {
 	margin: 0 20px 20px 0;
 }
 
+.mapa {
+	padding: 3em 0;
+}
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
+
 .imagem-beneficios {
 	width: 60%;
 }
@@ -208,26 +220,8 @@ td, th {
 	podding:3em 0;
 	background:#888888;
 }
-.mapa {
-    padding: 3em 0;
-	background: linear-gradient(#fefefe,#888888)
-}
-
-.mapa p {
-    margin: 0 0 2em;
-    text-align: center;
-}
 
 .video {
     width: 560px;
     margin: 2em auto;
 }
-
-
-/* Proxima aula
-
-Mudar a ordem de todas as classes mapa deixando após a classe utensilios
-
-inverter a posição das classes benefícios e imagem-beneficios
-
-*/
